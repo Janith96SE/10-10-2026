@@ -1,0 +1,18 @@
+ h1{
+            background-color: orange;
+            color: blue;
+            text-align: center;
+        }
+        p{
+            background-color: black;
+            color: aqua;
+
+        }
+
+        body{
+            background-color: rgb(154, 191, 196);
+            font-family: monospace;
+
+
+        }
+
